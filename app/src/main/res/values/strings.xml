@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Shop</string>
+    <string name="cb_women">女装</string>
+    <string name="cb_men">男装</string>
+    <string name="cb_shoes">鞋子</string>
+    <string name="cb_luggages">箱包</string>
+</resources>
